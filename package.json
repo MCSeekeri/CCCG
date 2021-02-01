@@ -1,0 +1,11 @@
+{
+  "name": "cccg",
+  "version": "1.0.0",
+  "description": "科A图书馆资源共享-混沌之子CG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MCSeekeri",
+  "license": "ISC"
+}
