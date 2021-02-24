@@ -1,6 +1,6 @@
 {
   "name": "cccg",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "科A图书馆资源共享-混沌之子CG",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com.cnpmjs.org/MCSeekeri/cccg.git"
+    "url": "https://github.com/MCSeekeri/cccg.git"
   }
 }
